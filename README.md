@@ -3,7 +3,7 @@
 This project focuses on analyzing vendor data to identify key performance trends, sales efficiency, and inventory management. By connecting SQL for robust data querying with Python for advanced data processing and EDA (Exploratory Data Analysis), this project provides actionable insights into vendor reliability and product turnover.
 
 🛠️ Tech Stack
-Database: SQL (SQLite/PostgreSQL) for structured data storage and complex joins.
+Database: SQL (SQLite/PostgreSQL/sqlite) for structured data storage and complex joins.
 
 Programming: Python (Pandas, NumPy) for data cleaning and transformation.
 
@@ -13,10 +13,6 @@ Tools: Git/GitHub for version control.
 
 📁 Repository Structure
 Plaintext
-├── sql_scripts/
-│   └── queries.sql          # Core SQL logic for vendor metrics
-├── python_scripts/
-│   └── analysis.py         # ETL and EDA process
 ├── .gitignore               # Files excluded from GitHub (Large Data)
 └── README.md                # Project documentation
 📊 Key Analysis Features
